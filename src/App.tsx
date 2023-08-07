@@ -13,7 +13,9 @@ function App() {
           <br />
           fullstack: ts & func
           <br />
-          co-founder: tonana & toncells & evaa & raven
+          co-founder & CTO: tonana & toncells & evaa
+          <br />
+          currently working in ton foundation
           <br />
           my wallet <a href='https://tonscan.org/address/EQBUL9aM4IKaBerYv8hZP1qLgRnEPnV2DYswO0aGsywZHsVW'>EQB...sVW</a>
           <br />
