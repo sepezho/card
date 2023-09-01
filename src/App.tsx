@@ -1,35 +1,37 @@
 import React from 'react';
-// import logo from './logo.svg';
-import './App.css';
+import s from './static/s.png';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <div className="container">
+        <img src={s}></img>
         <p>
+          <br />
           sepezho
           <br />
           ------------
           <br />
-          fullstack: ts & func
+          fullstack: js/ts & func
           <br />
-          co-founder & CTO: <a href="https://evaa.finance">evaa</a> & <a href="https://tonana.org">tonana</a>
+          co-founder & cto: <a href="https://evaa.finance">evaa</a> & <a href="https://tonana.org">tonana</a>
           <br />
-          founder & CEO: <a href="https://toncells.org">toncells</a>
+          founder: <a href="https://toncells.org">toncells</a>
           <br />
           contests creator at <a href="https://ton.org">ton</a> foundation
           <br />
-          my toncoin wallet <a href="https://tonscan.org/address/EQBUL9aM4IKaBerYv8hZP1qLgRnEPnV2DYswO0aGsywZHsVW">EQB...sVW</a>
-          <br />
-          my actual <a href="https://github.com/sepezho/cv/blob/main/cv.pdf">cv</a>
+          my telegram <a href="https://sepezho_log.t.me">channel</a>
           <br />
           my old portfolio <a href="https://old.sepezho.com">site</a>
           <br />
           ------------
           <br />
           u can find me everywhere by my nickname
+          <br />
+          or just google my <a href="https://www.google.com/search?q=sepezho&sourceid=chrome&ie=UTF-8">name</a>
+
         </p>
-      </header>
+      </div >
     </div >
   );
 }
