@@ -14,9 +14,7 @@ function App() {
           <br />
           fullstack: js/ts & func
           <br />
-          co-founder & cto: <a href="https://evaa.finance">evaa</a> & <a href="https://tonana.org">tonana</a>
-          <br />
-          founder: <a href="https://toncells.org">toncells</a>
+          core contributor: <a href="https://evaa.finance">evaa</a> & <a href="https://syntonix.fi">syntonix</a> & <a href="https://tonana.org">tonana</a> & <a href="https://toncells.org">toncells</a>
           <br />
           contests creator at <a href="https://ton.org">ton</a> foundation
           <br />
@@ -26,10 +24,7 @@ function App() {
           <br />
           ------------
           <br />
-          u can find me everywhere by my nickname
-          <br />
-          or just google my <a href="https://www.google.com/search?q=sepezho&sourceid=chrome&ie=UTF-8">name</a>
-
+          just google <a href="https://www.google.com/search?q=sepezho&sourceid=chrome&ie=UTF-8">me</a>
         </p>
       </div >
     </div >
