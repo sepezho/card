@@ -8,23 +8,34 @@ function App() {
         <img src={s}></img>
         <p>
           <br />
-          sepezho
+          @sepezho
           <br />
           ------------
           <br />
           fullstack: js/ts & func
           <br />
-          core contributor: <a href="https://evaa.finance">evaa</a> & <a href="https://syntonix.fi">syntonix</a> & <a href="https://tonana.org">tonana</a> & <a href="https://toncells.org">toncells</a>
+          cofounder & cto: <a href="https://evaa.finance">evaa</a> 
           <br />
-          contests creator at <a href="https://ton.org">ton</a> foundation
-          <br />
-          my telegram <a href="https://sepezho_log.t.me">channel</a>
-          <br />
-          my old portfolio <a href="https://old.sepezho.com">site</a>
+          ex <a href="https://ton.org">ton</a> foundation
           <br />
           ------------
-          <br />
-          just google <a href="https://www.google.com/search?q=sepezho&sourceid=chrome&ie=UTF-8">me</a>
+          <nav>
+            <li>
+              my <a href="https://sepezho.t.me">telegram</a>
+            </li>
+            <li>
+              main tg <a href="https://sepezho_log.t.me">channel</a>
+            </li>
+            <li>
+              live tg <a href="https://sepezholive.t.me">channel</a>
+            </li>
+            <li>
+              youtube <a href="https://www.youtube.com/@sepezho">channel</a>
+            </li>
+            <li>
+              me on <a href="https://github.com/sepezho">github</a>
+            </li>
+          </nav>
         </p>
       </div >
     </div >
