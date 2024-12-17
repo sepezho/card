@@ -12,7 +12,7 @@ body {
   background: black;
   font-size: 16px !important;
   @media (max-width: 650px) {
-    font-size: 12px !important;
+    font-size: 14px !important;
   }
 }
 
