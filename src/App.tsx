@@ -38,6 +38,9 @@ function App() {
             <li>
               pet projects: <a href="https://stx.tg">stx</a>, <a href="https://toncells.org">cells</a> 
             </li>
+            <li>
+              -- <a href="mailto:someone@example.com?subject=Hello&body=Hello">im@sepezh.ooo</a> -- 
+            </li>
           </nav>
         </p>
       </div >
