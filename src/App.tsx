@@ -30,6 +30,9 @@ function App() {
               live tg <a href="https://sepezholive.t.me">channel</a>
             </li>
             <li>
+              my <a href="https://x.com/sepezho">twitter</a>
+            </li>
+            <li>
               youtube <a href="https://www.youtube.com/@sepezho">channel</a>
             </li>
             <li>
