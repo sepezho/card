@@ -39,7 +39,7 @@ function App() {
               me on <a href="https://github.com/sepezho">github</a>
             </li>
             <li>
-              pet projects: <a href="https://stx.tg">stx</a>, <a href="https://toncells.org">cells</a> 
+              pet projects: <a href="https://cubee.ee">cube</a>, <a href="https://stx.tg">stx</a>, <a href="https://toncells.org">cells</a> 
             </li>
           </nav>
         </p>
