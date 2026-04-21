@@ -12,7 +12,7 @@ function App() {
           <br />
           ------------
           <br />
-          engineer 
+          software engineer: crypto + ai 
           <br />
           projects: <a href="https://cubee.ee">cube</a>, <a href="https://evaa.finance">evaa</a>, <a href="https://stx.tg">stx</a>, <a href="https://toncells.org">cells</a> 
           <br />
@@ -37,8 +37,6 @@ function App() {
             </li>
             <li>
               me on <a href="https://github.com/sepezho">github</a>
-            </li>
-            <li>
             </li>
           </nav>
         </p>
