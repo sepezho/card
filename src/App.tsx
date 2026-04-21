@@ -12,9 +12,9 @@ function App() {
           <br />
           ------------
           <br />
-          fullstack: js/ts & func
+          engineer 
           <br />
-          cofounder & cto: <a href="https://evaa.finance">evaa</a> 
+          projects: <a href="https://cubee.ee">cube</a>, <a href="https://evaa.finance">evaa</a>, <a href="https://stx.tg">stx</a>, <a href="https://toncells.org">cells</a> 
           <br />
           ex <a href="https://ton.org">ton</a> foundation
           <br />
@@ -30,16 +30,15 @@ function App() {
               live tg <a href="https://sepezholive.t.me">channel</a>
             </li>
             <li>
+              my <a href="https://x.com/sepezho">twitter</a>
+            </li>
+            <li>
               youtube <a href="https://www.youtube.com/@sepezho">channel</a>
             </li>
             <li>
               me on <a href="https://github.com/sepezho">github</a>
             </li>
             <li>
-              pet projects: <a href="https://stx.tg">stx</a>, <a href="https://toncells.org">cells</a> 
-            </li>
-            <li>
-              -- <a href="mailto:someone@example.com?subject=Hello&body=Hello">im@sepezh.ooo</a> -- 
             </li>
           </nav>
         </p>
