@@ -14,7 +14,7 @@ function App() {
           <br />
           software engineer: crypto + ai 
           <br />
-          projects: <a href="https://cubee.ee">cube</a>, <a href="https://evaa.finance">evaa</a>, <a href="https://stx.tg">stx</a>, <a href="https://toncells.org">cells</a> 
+          projects: <a href="https://coffer.so">coffer</a>, <a href="https://evaa.finance">evaa</a>, <a href="https://stx.tg">stx</a>, <a href="https://toncells.org">cells</a> 
           <br />
           ex <a href="https://ton.org">ton</a> foundation
           <br />
